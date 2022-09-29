@@ -17,6 +17,7 @@
   * [Proof by Contradiction](reasoning-and-logic/proof/proof-by-contradiction.md)
   * [Mathematical Induction](reasoning-and-logic/proof/mathematical-induction.md)
   * [Strong Mathematical Induction](reasoning-and-logic/proof/strong-mathematical-induction.md)
+  * [Recursive Definitions](reasoning-and-logic/proof/recursive-definitions.md)
 
 ## Computer Organization
 
