@@ -1,6 +1,6 @@
 # Mathematical Proof
 
-f(x) = x \* e^{2 pi i \xi x}In mathematics it is very important to have a correct proof. A proof it is made from a sequence of statements where each statement is either an assumption or follows by a rule of logic.&#x20;
+In mathematics it is very important to have a correct proof. A proof it is made from a sequence of statements where each statement is either an assumption or follows by a rule of logic.&#x20;
 
 Now that we have had defined our subject of discussion let's take an example so that we understand all of this terms. Basically we will combine some concept from mathematics with our terms that were already defined in logic.
 
