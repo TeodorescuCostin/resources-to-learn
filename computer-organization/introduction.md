@@ -1,12 +1,10 @@
----
-description: Basic Structure of Computers
----
-
 # Introduction
+
+#### Basic Structure of Computers
 
 In this part of our documentation we will discuss the design and the functions of digital computers that store and process information.
 
-Mostly we will discuss computer hardware and computer architecture. This means that we will learn about electronic circuits, a topic that is already familiar to us, due to the [ `Reasoning an Logic`](broken-reference), magnetic and optical storage devices, displays, electromechanical devices but also about communication facilities.
+Mostly we will discuss computer hardware and computer architecture. This means that we will learn about electronic circuits, a topic that is already familiar to us, due to the [Reasoning an Logic](broken-reference), magnetic and optical storage devices, displays, electromechanical devices but also about communication facilities.
 
 While discussing the specifications and the concepts of a good architecture it will also be nice to keep in mind both hardware and software.
 

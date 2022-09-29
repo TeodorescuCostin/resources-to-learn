@@ -1,0 +1,2 @@
+# Strong Mathematical Induction
+
