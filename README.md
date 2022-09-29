@@ -1,5 +1,9 @@
 # Contents
 
+### Before you start reading
+
+I would highly suggest you to read the full documentation from this link because otherwise the format of document will not be as intended to be.
+
 ### Small introduction for this documentation
 
 This documentation's main purpose is to set a solid understanding about computers and how you can develop on them. After many resources red I've realised that the materials that wear public are not that detailed and also do not offer all the informations. If the whole material is understood you will have a deep knowledge in this domains

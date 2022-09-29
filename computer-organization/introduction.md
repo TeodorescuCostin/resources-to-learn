@@ -4,7 +4,7 @@
 
 In this part of our documentation we will discuss the design and the functions of digital computers that store and process information.
 
-Mostly we will discuss computer hardware and computer architecture. This means that we will learn about electronic circuits, a topic that is already familiar to us, due to the [Reasoning an Logic](broken-reference), magnetic and optical storage devices, displays, electromechanical devices but also about communication facilities.
+Mostly we will discuss computer hardware and computer architecture. This means that we will learn about electronic circuits, a topic that is already familiar to us ( due to the [Reasoning an Logic](broken-reference) documentation ) magnetic and optical storage devices, displays, electromechanical devices but also about communication facilities.
 
 While discussing the specifications and the concepts of a good architecture it will also be nice to keep in mind both hardware and software.
 
@@ -51,4 +51,19 @@ Informations handled by computer are treated either as instructions or data. Ins
 * Govern the transfer of information within a computer
 * Specify the arithmetic and logic operations to be performed
 
-Th
+The program will be stored in the memory from where the processor will fetch it. The instruction that are in the program are going to be fetched one after the other and the processor will perfom them. The computer  is controlled by this program, except for possible external interuptions from I/O ( Input / Output ). Data is also going to be stored in the memory.
+
+Computers can accept code informations through the input units. Keyboard is  good example, which sends the corresponding binary digit for the key pressed. There are many other input units, another example would be the touchpad which is included in most of the laptops.
+
+Another input path would be the network. Through this a computer can recive data from another computer.&#x20;
+
+In the past years computers had advance rapidly. Now all of the computers have two different types of memory units. This was specifically made due to the fact that they have different tasks.
+
+One type of memory is Primary Memory, which can also be called main memory. This type of memory is very fast and because of this programs need to be stored on it while they are executed. The memory is made out of a large number of semiconductor cells more specifically ( semiconductor storage cells) each capable to store on bit. The storage cells are grouped in words so that they can called and changed much more efficient. The most common word lengths are:
+
+* 16 bits
+* 32 bits
+* 64 bits
+
+To facilitate easy access to the memory to any word a different address is asociated with each word location. Addresses are consecutive numbers starting from 0, that identify succesive locations. Usually a word is accessed by simply specifing its address.
+
