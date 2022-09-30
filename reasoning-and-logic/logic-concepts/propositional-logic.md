@@ -1,6 +1,6 @@
 # Propositional Logic
 
-Among the fundamental elements of thought, and therefore of logic, are proposition. Propositions helps us to translate the problems from natural language (English) to more specific circuits that can be implemented in our digital systems.
+Among the fundamental elements of thought, and therefore of logic, are proposition. Propositions help us to translate the problems from natural language (English) to more specific circuits that can be implemented in our digital systems.
 
 A proposition is a statement that can have truth values. It is either true o false. Some examples that do not enter in this category are questions or commands. This happens because propositions need to be true or false.
 

@@ -11,8 +11,8 @@ In this part of our documentation the goal is to help you:
 * Describe the notion of logical validity
 * Explain and apply basic set operations
 * Define and perform computation with functions, relations and equivalence classes
-* Constract a direct or indirect proof
-* Construct and inetrpret recursive definitions
+* Construct a direct or indirect proof
+* Construct and interpret recursive definitions
 * Identify what type of proof is appropriate for a given claim
 * Construct the right function or relation given a description
 
